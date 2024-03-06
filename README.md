@@ -1,2 +1,2 @@
 # PowerShell
-PowerShell Scripts to Automate System Administration
+Varoius PowerShell Scripts to Automate System Administration
